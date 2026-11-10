@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment
+.env
+
+# Generated statements
+statements/
+*.pdf
+*.csv
+
+# Alembic
+# Keep migration scripts tracked
+
+# IDE
+.vscode/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Logs
+*.log
